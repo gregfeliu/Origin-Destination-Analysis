@@ -25,6 +25,7 @@ venv.bak/
 # Data Directory
 transformed_data/
 initial_data/
+archive/
 
 # Other
 .DS_Store

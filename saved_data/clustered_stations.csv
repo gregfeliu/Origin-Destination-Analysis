@@ -1,425 +1,425 @@
 ,Station Complex Name,ridership_ratio_clusters,total_ridership_clusters,combo_cluster
-0,"Grand Army Plaza (2,3)",residential,low ridership,residential-low ridership
-1,23 St (1),destination,low ridership,destination-low ridership
-2,"116 St (C,B)",residential,low ridership,residential-low ridership
-3,Howard Beach-JFK Airport (A),destination,low ridership,destination-low ridership
-4,77 St (6),destination,low ridership,destination-low ridership
-5,Norwood-205 St (D),residential,low ridership,residential-low ridership
-6,"Lorimer St (M,J)",residential,low ridership,residential-low ridership
-7,116 St (6),residential,low ridership,residential-low ridership
-8,"Beach 105 St (A,S)",destination,low ridership,destination-low ridership
-9,Grand St (L),residential,low ridership,residential-low ridership
-10,155 St (C),residential,low ridership,residential-low ridership
-11,Lafayette Av (C),destination,low ridership,destination-low ridership
-12,"59 St-Columbus Circle (A,B,C,D,1)",destination,high ridership,destination-high ridership
-13,"59 St (N,R)",residential,low ridership,residential-low ridership
-14,"125 St (2,3)",destination,low ridership,destination-low ridership
-15,72 St (Q),destination,low ridership,destination-low ridership
-16,"75 Av (E,F)",residential,low ridership,residential-low ridership
-17,"Franklin Av (C,S)",residential,low ridership,residential-low ridership
-18,"36 St (D,N,R)",destination,low ridership,destination-low ridership
-19,Marble Hill-225 St (1),residential,low ridership,residential-low ridership
-20,Aqueduct-N Conduit Av (A),residential,low ridership,residential-low ridership
-21,East 105 St (L),residential,low ridership,residential-low ridership
-22,"Canal St (J,N,Q,R,W,Z,6)",destination,high ridership,destination-high ridership
-23,103 St (1),residential,low ridership,residential-low ridership
-24,"182-183 Sts (B,D)",residential,low ridership,residential-low ridership
-25,New Lots Av (L),residential,low ridership,residential-low ridership
-26,Neptune Av (F),residential,low ridership,residential-low ridership
-27,"Lexington Av-53 St (E,M)/51 St (6)",destination,high ridership,destination-high ridership
-28,Bay Pkwy (F),residential,low ridership,residential-low ridership
-29,"138 St-Grand Concourse (4,5)",residential,low ridership,residential-low ridership
-30,181 St (1),residential,low ridership,residential-low ridership
-31,"Lexington Av (N,R,W)/59 St (4,5,6)",destination,high ridership,destination-high ridership
-32,Bay Ridge-95 St (R),residential,low ridership,residential-low ridership
-33,104 St (A),residential,low ridership,residential-low ridership
-34,Dyckman St (1),residential,low ridership,residential-low ridership
-35,"Allerton Av (2,5)",residential,low ridership,residential-low ridership
-36,"Hewes St (M,J)",residential,low ridership,residential-low ridership
-37,"Utica Av (A,C)",residential,low ridership,residential-low ridership
-38,"Norwood Av (J,Z)",residential,low ridership,residential-low ridership
-39,Middle Village-Metropolitan Av (M),residential,low ridership,residential-low ridership
-40,Aqueduct Racetrack (A),destination,low ridership,destination-low ridership
-41,"65 St (M,R)",residential,low ridership,residential-low ridership
-42,18 Av (D),residential,low ridership,residential-low ridership
-43,"Rockaway Park-Beach 116 St (A,S)",destination,low ridership,destination-low ridership
-44,175 St (A),residential,low ridership,residential-low ridership
-45,"121 St (J,Z)",residential,low ridership,residential-low ridership
-46,Wakefield-241 St (2),residential,low ridership,residential-low ridership
-47,145 St (1),residential,low ridership,residential-low ridership
-48,181 St (A),residential,low ridership,residential-low ridership
-49,Elder Av (6),residential,low ridership,residential-low ridership
-50,"135 St (2,3)",residential,low ridership,residential-low ridership
-51,York St (F),destination,low ridership,destination-low ridership
-52,21 St (G),destination,low ridership,destination-low ridership
-53,Pennsylvania Av (3),residential,low ridership,residential-low ridership
-54,"Freeman St (2,5)",residential,low ridership,residential-low ridership
-55,Graham Av (L),residential,low ridership,residential-low ridership
-56,"Elmhurst Av (M,R)",residential,low ridership,residential-low ridership
-57,"174-175 Sts (B,D)",residential,low ridership,residential-low ridership
-58,"President St-Medgar Evers College (2,5)",residential,low ridership,residential-low ridership
-59,Union St (R),destination,low ridership,destination-low ridership
-60,"Beach 98 St (A,S)",residential,low ridership,residential-low ridership
-61,"Nostrand Av (A,C)",residential,low ridership,residential-low ridership
-62,Kingston-Throop Avs (C),residential,low ridership,residential-low ridership
-63,"23 St (R,W)",destination,low ridership,destination-low ridership
-64,"8 St-NYU (R,W)",destination,low ridership,destination-low ridership
-65,Greenpoint Av (G),destination,low ridership,destination-low ridership
-66,Parkside Av (Q),residential,low ridership,residential-low ridership
-67,"15 St-Prospect Park (F,G)",residential,low ridership,residential-low ridership
-68,DeKalb Av (L),residential,low ridership,residential-low ridership
-69,Morris Park (5),residential,low ridership,residential-low ridership
-70,Avenue U (Q),residential,low ridership,residential-low ridership
-71,"23 St (F,M)",destination,low ridership,destination-low ridership
-72,"Carroll St (F,G)",residential,low ridership,residential-low ridership
-73,21 St-Queensbridge (F),residential,low ridership,residential-low ridership
-74,20 Av (D),residential,low ridership,residential-low ridership
-75,Fort Hamilton Pkwy (D),residential,low ridership,residential-low ridership
-76,"Cathedral Pkwy (110 St) (C,B)",residential,low ridership,residential-low ridership
-77,"28 St (R,W)",destination,low ridership,destination-low ridership
-78,"Steinway St (M,R)",residential,low ridership,residential-low ridership
-79,96 St (Q),residential,low ridership,residential-low ridership
-80,"West Farms Sq-E Tremont Av (2,5)",residential,low ridership,residential-low ridership
-81,9 Av (D),residential,low ridership,residential-low ridership
-82,Parsons Blvd (F),residential,low ridership,residential-low ridership
-83,Bay 50 St (D),residential,low ridership,residential-low ridership
-84,66 St-Lincoln Center (1),destination,low ridership,destination-low ridership
-85,Baychester Av (5),residential,low ridership,residential-low ridership
-86,New Utrecht Av (N)/62 St (D),residential,low ridership,residential-low ridership
-87,Prospect Av (R),residential,low ridership,residential-low ridership
-88,Seneca Av (M),residential,low ridership,residential-low ridership
-89,55 St (D),destination,low ridership,destination-low ridership
-90,"Tremont Av (B,D)",residential,low ridership,residential-low ridership
-91,Spring St (6),destination,low ridership,destination-low ridership
-92,"Bowery (J,Z)",destination,low ridership,destination-low ridership
-93,"170 St (B,D)",residential,low ridership,residential-low ridership
-94,Avenue X (F),residential,low ridership,residential-low ridership
-95,145 St (3),residential,low ridership,residential-low ridership
-96,"Broadway (N,W)",residential,low ridership,residential-low ridership
-97,"Kew Gardens-Union Tpke (E,F)",residential,low ridership,residential-low ridership
-98,Bay Ridge Av (R),residential,low ridership,residential-low ridership
-99,"Wall St (4,5)",destination,low ridership,destination-low ridership
-100,"Van Siclen Av (J,Z)",residential,low ridership,residential-low ridership
-101,Castle Hill Av (6),residential,low ridership,residential-low ridership
-102,"Woodhaven Blvd (M,R)",residential,low ridership,residential-low ridership
-103,"23 St (C,E)",destination,low ridership,destination-low ridership
-104,"Bergen St (2,3)",residential,low ridership,residential-low ridership
-105,50 St (1),destination,low ridership,destination-low ridership
-106,"7 Av (E,B,D)",destination,low ridership,destination-low ridership
-107,Van Cortlandt Park-242 St (1),residential,low ridership,residential-low ridership
-108,Mosholu Pkwy (4),residential,low ridership,residential-low ridership
-109,"Lexington Av/63 St (F,Q)",destination,low ridership,destination-low ridership
-110,"South Ferry (1)/Whitehall St (R,W)",destination,low ridership,destination-low ridership
-111,1 Av (L),destination,low ridership,destination-low ridership
-112,"149 St-Grand Concourse (2,4,5)",destination,low ridership,destination-low ridership
-113,"225 St (2,5)",residential,low ridership,residential-low ridership
-114,Avenue U (F),residential,low ridership,residential-low ridership
-115,Beach 36 St (A),residential,low ridership,residential-low ridership
-116,Houston St (1),destination,low ridership,destination-low ridership
-117,"Bedford Park Blvd (B,D)",residential,low ridership,residential-low ridership
-118,"City Hall (R,W)",destination,low ridership,destination-low ridership
-119,"Wall St (2,3)",destination,low ridership,destination-low ridership
-120,"14 St (A,C,E)/8 Av (L)",destination,high ridership,destination-high ridership
-121,"Grand St (B,D)",destination,low ridership,destination-low ridership
-122,Bedford-Nostrand Avs (G),residential,low ridership,residential-low ridership
-123,"Gun Hill Rd (2,5)",residential,low ridership,residential-low ridership
-124,"Jay St-MetroTech (A,C,F,R)",destination,low ridership,destination-low ridership
-125,Franklin St (1),destination,low ridership,destination-low ridership
-126,Avenue I (F),destination,low ridership,destination-low ridership
-127,Central Av (M),residential,low ridership,residential-low ridership
-128,"233 St (2,5)",residential,low ridership,residential-low ridership
-129,E 149 St (6),residential,low ridership,residential-low ridership
-130,"Euclid Av (A,C)",residential,low ridership,residential-low ridership
-131,"Queensboro Plaza (7,N,W)",residential,low ridership,residential-low ridership
-132,"Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)",destination,high ridership,destination-high ridership
-133,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",residential,low ridership,residential-low ridership
-134,"Franklin Av (2,3,4,5)/Botanic Garden (S)",residential,low ridership,residential-low ridership
-135,215 St (1),residential,low ridership,residential-low ridership
-136,191 St (1),residential,low ridership,residential-low ridership
-137,Burnside Av (4),residential,low ridership,residential-low ridership
-138,"Smith-9 Sts (F,G)",destination,low ridership,destination-low ridership
-139,Alabama Av (J),destination,low ridership,destination-low ridership
-140,Clinton-Washington Avs (C),residential,low ridership,residential-low ridership
-141,"Newkirk Plaza (B,Q)",residential,low ridership,residential-low ridership
-142,116 St-Columbia University (1),destination,low ridership,destination-low ridership
-143,"Church Av (B,Q)",residential,low ridership,residential-low ridership
-144,18 St (1),destination,low ridership,destination-low ridership
-145,"4 Av (F,G)/9 St (R)",destination,low ridership,destination-low ridership
-146,Bushwick Av-Aberdeen St (L),residential,low ridership,residential-low ridership
-147,"49 St (N,R,W)",destination,low ridership,destination-low ridership
-148,Jamaica-179 St (F),residential,low ridership,residential-low ridership
-149,"36 St (M,R)",destination,low ridership,destination-low ridership
-150,"Delancey St (F)/Essex St (J,M,Z)",destination,low ridership,destination-low ridership
-151,Canarsie-Rockaway Pkwy (L),residential,low ridership,residential-low ridership
-152,"155 St (B,D)",residential,low ridership,residential-low ridership
-153,Vernon Blvd-Jackson Av (7),residential,low ridership,residential-low ridership
-154,"Jackson Av (2,5)",residential,low ridership,residential-low ridership
-155,Avenue H (Q),residential,low ridership,residential-low ridership
-156,Far Rockaway-Mott Av (A),residential,low ridership,residential-low ridership
-157,Van Siclen Av (3),residential,low ridership,residential-low ridership
-158,Astor Pl (6),destination,low ridership,destination-low ridership
-159,Brook Av (6),residential,low ridership,residential-low ridership
-160,Avenue N (F),residential,low ridership,residential-low ridership
-161,"Myrtle-Wyckoff Avs (L,M)",residential,low ridership,residential-low ridership
-162,"168 St (A,C,1)",destination,low ridership,destination-low ridership
-163,"Prospect Park (B,Q,S)",residential,low ridership,residential-low ridership
-164,"Bryant Pk (B,D,F,M)/5 Av (7)",destination,high ridership,destination-high ridership
-165,Grant Av (A),residential,low ridership,residential-low ridership
-166,23 St (6),destination,low ridership,destination-low ridership
-167,Kings Hwy (N),residential,low ridership,residential-low ridership
-168,"Sterling St (2,5)",residential,low ridership,residential-low ridership
-169,"Bowling Green (4,5)",destination,low ridership,destination-low ridership
-170,Livonia Av (L),residential,low ridership,residential-low ridership
-171,"Fort Hamilton Pkwy (F,G)",residential,low ridership,residential-low ridership
-172,"Woodhaven Blvd (J,Z)",residential,low ridership,residential-low ridership
-173,"Beach 90 St (A,S)",destination,low ridership,destination-low ridership
-174,Park Pl (S),residential,low ridership,residential-low ridership
-175,"7 Av (F,G)",residential,low ridership,residential-low ridership
-176,"161 St-Yankee Stadium (B,D,4)",destination,low ridership,destination-low ridership
-177,"145 St (A,C,B,D)",residential,low ridership,residential-low ridership
-178,"57 St-7 Av (N,Q,R,W)",destination,low ridership,destination-low ridership
-179,"Broad Channel (A,S)",residential,low ridership,residential-low ridership
-180,"Burke Av (2,5)",residential,low ridership,residential-low ridership
-181,Harlem-148 St (3),residential,low ridership,residential-low ridership
-182,Longwood Av (6),residential,low ridership,residential-low ridership
-183,Cypress Hills (J),residential,low ridership,residential-low ridership
-184,96 St (6),destination,low ridership,destination-low ridership
-185,"Court St (R)/Borough Hall (2,3,4,5)",destination,low ridership,destination-low ridership
-186,"Pelham Pkwy (2,5)",residential,low ridership,residential-low ridership
-187,103 St (6),destination,low ridership,destination-low ridership
+0,1 Av (L),destination,low ridership,destination-low ridership
+1,103 St (1),residential,low ridership,residential-low ridership
+2,103 St (6),destination,low ridership,destination-low ridership
+3,"103 St (C,B)",residential,low ridership,residential-low ridership
+4,103 St-Corona Plaza (7),residential,low ridership,residential-low ridership
+5,104 St (A),residential,low ridership,residential-low ridership
+6,"104 St (J,Z)",residential,low ridership,residential-low ridership
+7,110 St (6),residential,low ridership,residential-low ridership
+8,111 St (7),residential,low ridership,residential-low ridership
+9,111 St (A),residential,low ridership,residential-low ridership
+10,111 St (J),residential,low ridership,residential-low ridership
+11,"116 St (2,3)",residential,low ridership,residential-low ridership
+12,116 St (6),residential,low ridership,residential-low ridership
+13,"116 St (C,B)",residential,low ridership,residential-low ridership
+14,116 St-Columbia University (1),destination,low ridership,destination-low ridership
+15,"121 St (J,Z)",residential,low ridership,residential-low ridership
+16,125 St (1),destination,low ridership,destination-low ridership
+17,"125 St (2,3)",destination,low ridership,destination-low ridership
+18,"125 St (4,5,6)",destination,low ridership,destination-low ridership
+19,"125 St (A,C,B,D)",destination,low ridership,destination-low ridership
+20,"135 St (2,3)",residential,low ridership,residential-low ridership
+21,"135 St (C,B)",residential,low ridership,residential-low ridership
+22,137 St-City College (1),residential,low ridership,residential-low ridership
+23,"138 St-Grand Concourse (4,5)",residential,low ridership,residential-low ridership
+24,"14 St (A,C,E)/8 Av (L)",destination,high ridership,destination-high ridership
+25,"14 St (F,M,1,2,3)/6 Av (L)",destination,high ridership,destination-high ridership
+26,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",destination,high ridership,destination-high ridership
+27,145 St (1),residential,low ridership,residential-low ridership
+28,145 St (3),residential,low ridership,residential-low ridership
+29,"145 St (A,C,B,D)",residential,low ridership,residential-low ridership
+30,"149 St-Grand Concourse (2,4,5)",destination,low ridership,destination-low ridership
+31,"15 St-Prospect Park (F,G)",residential,low ridership,residential-low ridership
+32,"155 St (B,D)",residential,low ridership,residential-low ridership
+33,155 St (C),residential,low ridership,residential-low ridership
+34,157 St (1),residential,low ridership,residential-low ridership
+35,"161 St-Yankee Stadium (B,D,4)",destination,low ridership,destination-low ridership
+36,163 St-Amsterdam Av (C),residential,low ridership,residential-low ridership
+37,167 St (4),residential,low ridership,residential-low ridership
+38,"167 St (B,D)",residential,low ridership,residential-low ridership
+39,"168 St (A,C,1)",destination,low ridership,destination-low ridership
+40,169 St (F),residential,low ridership,residential-low ridership
+41,170 St (4),residential,low ridership,residential-low ridership
+42,"170 St (B,D)",residential,low ridership,residential-low ridership
+43,"174 St (2,5)",residential,low ridership,residential-low ridership
+44,"174-175 Sts (B,D)",residential,low ridership,residential-low ridership
+45,175 St (A),residential,low ridership,residential-low ridership
+46,176 St (4),residential,low ridership,residential-low ridership
+47,18 Av (D),residential,low ridership,residential-low ridership
+48,18 Av (F),residential,low ridership,residential-low ridership
+49,18 Av (N),residential,low ridership,residential-low ridership
+50,18 St (1),destination,low ridership,destination-low ridership
+51,181 St (1),residential,low ridership,residential-low ridership
+52,181 St (A),residential,low ridership,residential-low ridership
+53,"182-183 Sts (B,D)",residential,low ridership,residential-low ridership
+54,183 St (4),residential,low ridership,residential-low ridership
+55,190 St (A),residential,low ridership,residential-low ridership
+56,191 St (1),residential,low ridership,residential-low ridership
+57,2 Av (F),destination,low ridership,destination-low ridership
+58,20 Av (D),residential,low ridership,residential-low ridership
+59,20 Av (N),residential,low ridership,residential-low ridership
+60,207 St (1),residential,low ridership,residential-low ridership
+61,21 St (G),destination,low ridership,destination-low ridership
+62,21 St-Queensbridge (F),residential,low ridership,residential-low ridership
+63,215 St (1),residential,low ridership,residential-low ridership
+64,"219 St (2,5)",residential,low ridership,residential-low ridership
+65,"225 St (2,5)",residential,low ridership,residential-low ridership
+66,23 St (1),destination,low ridership,destination-low ridership
+67,23 St (6),destination,low ridership,destination-low ridership
+68,"23 St (C,E)",destination,low ridership,destination-low ridership
+69,"23 St (F,M)",destination,low ridership,destination-low ridership
+70,"23 St (R,W)",destination,low ridership,destination-low ridership
+71,231 St (1),residential,low ridership,residential-low ridership
+72,"233 St (2,5)",residential,low ridership,residential-low ridership
+73,238 St (1),residential,low ridership,residential-low ridership
+74,25 Av (D),residential,low ridership,residential-low ridership
+75,25 St (R),residential,low ridership,residential-low ridership
+76,28 St (1),destination,low ridership,destination-low ridership
+77,28 St (6),destination,low ridership,destination-low ridership
+78,"28 St (R,W)",destination,low ridership,destination-low ridership
+79,3 Av (L),destination,low ridership,destination-low ridership
+80,3 Av-138 St (6),residential,low ridership,residential-low ridership
+81,"3 Av-149 St (2,5)",residential,low ridership,residential-low ridership
+82,"30 Av (N,W)",residential,low ridership,residential-low ridership
+83,33 St (6),destination,low ridership,destination-low ridership
+84,33 St-Rawson St (7),destination,low ridership,destination-low ridership
+85,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",destination,high ridership,destination-high ridership
+86,34 St-Hudson Yards (7),destination,low ridership,destination-low ridership
+87,"34 St-Penn Station (1,2,3)",destination,high ridership,destination-high ridership
+88,"34 St-Penn Station (A,C,E)",destination,high ridership,destination-high ridership
+89,"36 Av (N,W)",residential,low ridership,residential-low ridership
+90,"36 St (D,N,R)",destination,low ridership,destination-low ridership
+91,"36 St (M,R)",destination,low ridership,destination-low ridership
+92,"39 Av-Dutch Kills (N,W)",residential,low ridership,residential-low ridership
+93,"4 Av (F,G)/9 St (R)",destination,low ridership,destination-low ridership
+94,40 St-Lowery St (7),residential,low ridership,residential-low ridership
+95,45 St (R),residential,low ridership,residential-low ridership
+96,"46 St (M,R)",residential,low ridership,residential-low ridership
+97,46 St-Bliss St (7),residential,low ridership,residential-low ridership
+98,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",destination,high ridership,destination-high ridership
+99,"49 St (N,R,W)",destination,low ridership,destination-low ridership
+100,"5 Av/53 St (E,M)",destination,low ridership,destination-low ridership
+101,"5 Av/59 St (N,R,W)",destination,low ridership,destination-low ridership
+102,50 St (1),destination,low ridership,destination-low ridership
+103,"50 St (C,E)",destination,low ridership,destination-low ridership
+104,50 St (D),destination,low ridership,destination-low ridership
+105,52 St (7),residential,low ridership,residential-low ridership
+106,53 St (R),residential,low ridership,residential-low ridership
+107,55 St (D),destination,low ridership,destination-low ridership
+108,57 St (F),destination,low ridership,destination-low ridership
+109,"57 St-7 Av (N,Q,R,W)",destination,low ridership,destination-low ridership
+110,"59 St (N,R)",residential,low ridership,residential-low ridership
+111,"59 St-Columbus Circle (A,B,C,D,1)",destination,high ridership,destination-high ridership
+112,61 St-Woodside (7),residential,low ridership,residential-low ridership
+113,"63 Dr-Rego Park (M,R)",residential,low ridership,residential-low ridership
+114,"65 St (M,R)",residential,low ridership,residential-low ridership
+115,66 St-Lincoln Center (1),destination,low ridership,destination-low ridership
+116,"67 Av (M,R)",residential,low ridership,residential-low ridership
+117,68 St-Hunter College (6),destination,low ridership,destination-low ridership
+118,69 St (7),residential,low ridership,residential-low ridership
+119,"7 Av (B,Q)",residential,low ridership,residential-low ridership
+120,"7 Av (E,B,D)",destination,low ridership,destination-low ridership
+121,"7 Av (F,G)",residential,low ridership,residential-low ridership
+122,71 St (D),residential,low ridership,residential-low ridership
+123,"72 St (1,2,3)",destination,high ridership,destination-high ridership
+124,"72 St (C,B)",destination,low ridership,destination-low ridership
+125,72 St (Q),destination,low ridership,destination-low ridership
+126,"74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",residential,high ridership,residential-high ridership
+127,"75 Av (E,F)",residential,low ridership,residential-low ridership
+128,"75 St-Elderts Ln (J,Z)",residential,low ridership,residential-low ridership
+129,77 St (6),destination,low ridership,destination-low ridership
+130,77 St (R),residential,low ridership,residential-low ridership
+131,79 St (1),destination,low ridership,destination-low ridership
+132,79 St (D),residential,low ridership,residential-low ridership
+133,8 Av (N),destination,low ridership,destination-low ridership
+134,"8 St-NYU (R,W)",destination,low ridership,destination-low ridership
+135,80 St (A),residential,low ridership,residential-low ridership
+136,"81 St-Museum of Natural History (C,B)",destination,low ridership,destination-low ridership
+137,82 St-Jackson Hts (7),residential,low ridership,residential-low ridership
+138,85 St-Forest Pkwy (J),residential,low ridership,residential-low ridership
+139,86 St (1),destination,low ridership,destination-low ridership
+140,"86 St (4,5,6)",destination,high ridership,destination-high ridership
+141,"86 St (C,B)",destination,low ridership,destination-low ridership
+142,86 St (N),residential,low ridership,residential-low ridership
+143,86 St (Q),residential,low ridership,residential-low ridership
+144,86 St (R),residential,low ridership,residential-low ridership
+145,88 St (A),residential,low ridership,residential-low ridership
+146,9 Av (D),residential,low ridership,residential-low ridership
+147,90 St-Elmhurst Av (7),residential,low ridership,residential-low ridership
+148,"96 St (1,2,3)",destination,low ridership,destination-low ridership
+149,96 St (6),destination,low ridership,destination-low ridership
+150,"96 St (C,B)",destination,low ridership,destination-low ridership
+151,96 St (Q),residential,low ridership,residential-low ridership
+152,Alabama Av (J),destination,low ridership,destination-low ridership
+153,"Allerton Av (2,5)",residential,low ridership,residential-low ridership
+154,Aqueduct Racetrack (A),destination,low ridership,destination-low ridership
+155,Aqueduct-N Conduit Av (A),residential,low ridership,residential-low ridership
+156,Astor Pl (6),destination,low ridership,destination-low ridership
+157,"Astoria Blvd (N,W)",residential,low ridership,residential-low ridership
+158,"Astoria-Ditmars Blvd (N,W)",residential,low ridership,residential-low ridership
+159,Atlantic Av (L),residential,low ridership,residential-low ridership
+160,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)",destination,high ridership,destination-high ridership
+161,Avenue H (Q),residential,low ridership,residential-low ridership
+162,Avenue I (F),destination,low ridership,destination-low ridership
+163,Avenue J (Q),residential,low ridership,residential-low ridership
+164,Avenue M (Q),residential,low ridership,residential-low ridership
+165,Avenue N (F),residential,low ridership,residential-low ridership
+166,Avenue P (F),residential,low ridership,residential-low ridership
+167,Avenue U (F),residential,low ridership,residential-low ridership
+168,Avenue U (N),residential,low ridership,residential-low ridership
+169,Avenue U (Q),residential,low ridership,residential-low ridership
+170,Avenue X (F),residential,low ridership,residential-low ridership
+171,Bay 50 St (D),residential,low ridership,residential-low ridership
+172,Bay Pkwy (D),residential,low ridership,residential-low ridership
+173,Bay Pkwy (F),residential,low ridership,residential-low ridership
+174,Bay Pkwy (N),residential,low ridership,residential-low ridership
+175,Bay Ridge Av (R),residential,low ridership,residential-low ridership
+176,Bay Ridge-95 St (R),residential,low ridership,residential-low ridership
+177,Baychester Av (5),residential,low ridership,residential-low ridership
+178,"Beach 105 St (A,S)",destination,low ridership,destination-low ridership
+179,Beach 25 St (A),residential,low ridership,residential-low ridership
+180,Beach 36 St (A),residential,low ridership,residential-low ridership
+181,Beach 44 St (A),residential,low ridership,residential-low ridership
+182,Beach 60 St (A),residential,low ridership,residential-low ridership
+183,Beach 67 St (A),residential,low ridership,residential-low ridership
+184,"Beach 90 St (A,S)",destination,low ridership,destination-low ridership
+185,"Beach 98 St (A,S)",residential,low ridership,residential-low ridership
+186,Bedford Av (L),destination,low ridership,destination-low ridership
+187,"Bedford Park Blvd (B,D)",residential,low ridership,residential-low ridership
 188,Bedford Park Blvd-Lehman College (4),residential,low ridership,residential-low ridership
-189,90 St-Elmhurst Av (7),residential,low ridership,residential-low ridership
-190,Flushing Av (G),destination,low ridership,destination-low ridership
-191,Wilson Av (L),residential,low ridership,residential-low ridership
-192,"Astoria-Ditmars Blvd (N,W)",residential,low ridership,residential-low ridership
-193,Fulton St (G),destination,low ridership,destination-low ridership
-194,"Canal St (A,C,E)",destination,low ridership,destination-low ridership
-195,"Spring St (C,E)",destination,low ridership,destination-low ridership
-196,Junius St (3),residential,low ridership,residential-low ridership
-197,85 St-Forest Pkwy (J),residential,low ridership,residential-low ridership
-198,"Myrtle Av (M,J,Z)",residential,low ridership,residential-low ridership
-199,183 St (4),residential,low ridership,residential-low ridership
-200,79 St (D),residential,low ridership,residential-low ridership
-201,"34 St-Penn Station (A,C,E)",destination,high ridership,destination-high ridership
-202,Fresh Pond Rd (M),residential,low ridership,residential-low ridership
-203,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",destination,high ridership,destination-high ridership
-204,Kings Hwy (F),residential,low ridership,residential-low ridership
-205,Rockaway Av (3),residential,low ridership,residential-low ridership
-206,"74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",residential,high ridership,residential-high ridership
-207,Fort Hamilton Pkwy (N),residential,low ridership,residential-low ridership
-208,"E 180 St (2,5)",residential,low ridership,residential-low ridership
-209,Woodlawn (4),residential,low ridership,residential-low ridership
-210,Cortelyou Rd (Q),residential,low ridership,residential-low ridership
-211,Shepherd Av (C),residential,low ridership,residential-low ridership
-212,Hunts Point Av (6),residential,low ridership,residential-low ridership
-213,"DeKalb Av (B,Q,R)",destination,low ridership,destination-low ridership
-214,"Intervale Av (2,5)",residential,low ridership,residential-low ridership
-215,"81 St-Museum of Natural History (C,B)",destination,low ridership,destination-low ridership
-216,86 St (R),residential,low ridership,residential-low ridership
-217,"High St (A,C)",destination,low ridership,destination-low ridership
-218,"Fulton St (A,C,J,Z,2,3,4,5)",destination,high ridership,destination-high ridership
-219,Cathedral Pkwy (110 St) (1),destination,low ridership,destination-low ridership
-220,"72 St (1,2,3)",destination,high ridership,destination-high ridership
-221,157 St (1),residential,low ridership,residential-low ridership
-222,33 St (6),destination,low ridership,destination-low ridership
-223,Clinton-Washington Avs (G),residential,low ridership,residential-low ridership
-224,61 St-Woodside (7),residential,low ridership,residential-low ridership
-225,"Beverly Rd (2,5)",residential,low ridership,residential-low ridership
-226,Beach 67 St (A),residential,low ridership,residential-low ridership
-227,"103 St (C,B)",residential,low ridership,residential-low ridership
-228,"125 St (4,5,6)",destination,low ridership,destination-low ridership
-229,"34 St-Penn Station (1,2,3)",destination,high ridership,destination-high ridership
-230,"Broad St (J,Z)",destination,low ridership,destination-low ridership
-231,Junction Blvd (7),residential,low ridership,residential-low ridership
-232,46 St-Bliss St (7),residential,low ridership,residential-low ridership
-233,Rockaway Av (C),residential,low ridership,residential-low ridership
-234,"Court Sq (E,G,M,7)",destination,low ridership,destination-low ridership
-235,"86 St (C,B)",destination,low ridership,destination-low ridership
-236,"Nevins St (2,3,4,5)",destination,low ridership,destination-low ridership
-237,190 St (A),residential,low ridership,residential-low ridership
-238,"Broadway Junction (A,C,J,L,Z)",residential,low ridership,residential-low ridership
-239,82 St-Jackson Hts (7),residential,low ridership,residential-low ridership
-240,Buhre Av (6),residential,low ridership,residential-low ridership
-241,"7 Av (B,Q)",residential,low ridership,residential-low ridership
-242,"Coney Island-Stillwell Av (D,F,N,Q)",destination,low ridership,destination-low ridership
-243,Sutphin Blvd (F),residential,low ridership,residential-low ridership
-244,New Lots Av (3),residential,low ridership,residential-low ridership
-245,86 St (Q),residential,low ridership,residential-low ridership
-246,Pelham Pkwy (5),residential,low ridership,residential-low ridership
-247,25 Av (D),residential,low ridership,residential-low ridership
+189,Bedford-Nostrand Avs (G),residential,low ridership,residential-low ridership
+190,"Bergen St (2,3)",residential,low ridership,residential-low ridership
+191,"Bergen St (F,G)",destination,low ridership,destination-low ridership
+192,Beverley Rd (Q),residential,low ridership,residential-low ridership
+193,"Beverly Rd (2,5)",residential,low ridership,residential-low ridership
+194,"Bowery (J,Z)",destination,low ridership,destination-low ridership
+195,"Bowling Green (4,5)",destination,low ridership,destination-low ridership
+196,"Briarwood (E,F)",residential,low ridership,residential-low ridership
+197,"Brighton Beach (B,Q)",residential,low ridership,residential-low ridership
+198,"Broad Channel (A,S)",residential,low ridership,residential-low ridership
+199,"Broad St (J,Z)",destination,low ridership,destination-low ridership
+200,Broadway (G),destination,low ridership,destination-low ridership
+201,"Broadway (N,W)",residential,low ridership,residential-low ridership
+202,"Broadway Junction (A,C,J,L,Z)",residential,low ridership,residential-low ridership
+203,"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)",destination,high ridership,destination-high ridership
+204,"Bronx Park East (2,5)",residential,low ridership,residential-low ridership
+205,Brook Av (6),residential,low ridership,residential-low ridership
+206,"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)",destination,low ridership,destination-low ridership
+207,"Bryant Pk (B,D,F,M)/5 Av (7)",destination,high ridership,destination-high ridership
+208,Buhre Av (6),residential,low ridership,residential-low ridership
+209,"Burke Av (2,5)",residential,low ridership,residential-low ridership
+210,Burnside Av (4),residential,low ridership,residential-low ridership
+211,Bushwick Av-Aberdeen St (L),residential,low ridership,residential-low ridership
+212,Canal St (1),destination,low ridership,destination-low ridership
+213,"Canal St (A,C,E)",destination,low ridership,destination-low ridership
+214,"Canal St (J,N,Q,R,W,Z,6)",destination,high ridership,destination-high ridership
+215,Canarsie-Rockaway Pkwy (L),residential,low ridership,residential-low ridership
+216,"Carroll St (F,G)",residential,low ridership,residential-low ridership
+217,Castle Hill Av (6),residential,low ridership,residential-low ridership
+218,Cathedral Pkwy (110 St) (1),destination,low ridership,destination-low ridership
+219,"Cathedral Pkwy (110 St) (C,B)",residential,low ridership,residential-low ridership
+220,Central Av (M),residential,low ridership,residential-low ridership
+221,"Central Park North (110 St) (2,3)",residential,low ridership,residential-low ridership
+222,"Chambers St (1,2,3)",destination,low ridership,destination-low ridership
+223,"Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)",destination,high ridership,destination-high ridership
+224,"Chauncey St (J,Z)",residential,low ridership,residential-low ridership
+225,Christopher St-Sheridan Sq (1),destination,low ridership,destination-low ridership
+226,"Church Av (2,5)",residential,low ridership,residential-low ridership
+227,"Church Av (B,Q)",residential,low ridership,residential-low ridership
+228,"Church Av (F,G)",residential,low ridership,residential-low ridership
+229,"City Hall (R,W)",destination,low ridership,destination-low ridership
+230,"Clark St (2,3)",destination,low ridership,destination-low ridership
+231,Classon Av (G),residential,low ridership,residential-low ridership
+232,Cleveland St (J),residential,low ridership,residential-low ridership
+233,Clinton-Washington Avs (C),residential,low ridership,residential-low ridership
+234,Clinton-Washington Avs (G),residential,low ridership,residential-low ridership
+235,"Coney Island-Stillwell Av (D,F,N,Q)",destination,low ridership,destination-low ridership
+236,Cortelyou Rd (Q),residential,low ridership,residential-low ridership
+237,"Court Sq (E,G,M,7)",destination,low ridership,destination-low ridership
+238,"Court St (R)/Borough Hall (2,3,4,5)",destination,low ridership,destination-low ridership
+239,"Crescent St (J,Z)",residential,low ridership,residential-low ridership
+240,"Crown Hts-Utica Av (3,4)",residential,low ridership,residential-low ridership
+241,Cypress Av (6),residential,low ridership,residential-low ridership
+242,Cypress Hills (J),residential,low ridership,residential-low ridership
+243,"DeKalb Av (B,Q,R)",destination,low ridership,destination-low ridership
+244,DeKalb Av (L),residential,low ridership,residential-low ridership
+245,"Delancey St (F)/Essex St (J,M,Z)",destination,low ridership,destination-low ridership
+246,Ditmas Av (F),residential,low ridership,residential-low ridership
+247,Dyckman St (1),residential,low ridership,residential-low ridership
 248,Dyckman St (A),residential,low ridership,residential-low ridership
-249,"Nereid Av (2,5)",residential,low ridership,residential-low ridership
-250,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",destination,high ridership,destination-high ridership
-251,"67 Av (M,R)",residential,low ridership,residential-low ridership
-252,Atlantic Av (L),residential,low ridership,residential-low ridership
-253,Hunters Point Av (7),destination,low ridership,destination-low ridership
-254,3 Av-138 St (6),residential,low ridership,residential-low ridership
-255,Liberty Av (C),residential,low ridership,residential-low ridership
-256,Halsey St (J),residential,low ridership,residential-low ridership
-257,68 St-Hunter College (6),destination,low ridership,destination-low ridership
-258,Avenue M (Q),residential,low ridership,residential-low ridership
-259,"Gates Av (J,Z)",residential,low ridership,residential-low ridership
-260,Sutter Av (L),residential,low ridership,residential-low ridership
-261,"46 St (M,R)",residential,low ridership,residential-low ridership
-262,"63 Dr-Rego Park (M,R)",residential,low ridership,residential-low ridership
-263,125 St (1),destination,low ridership,destination-low ridership
-264,Mets-Willets Point (7),destination,low ridership,destination-low ridership
-265,Inwood-207 St (A),residential,low ridership,residential-low ridership
-266,"Prince St (R,W)",destination,low ridership,destination-low ridership
-267,Bedford Av (L),destination,low ridership,destination-low ridership
-268,"Eastern Pkwy-Brooklyn Museum (2,3)",destination,low ridership,destination-low ridership
-269,Knickerbocker Av (M),residential,low ridership,residential-low ridership
-270,"3 Av-149 St (2,5)",residential,low ridership,residential-low ridership
-271,"Winthrop St (2,5)",residential,low ridership,residential-low ridership
-272,Middletown Rd (6),residential,low ridership,residential-low ridership
-273,Morrison Av-Soundview (6),residential,low ridership,residential-low ridership
-274,Morgan Av (L),residential,low ridership,residential-low ridership
-275,"Flatbush Av-Brooklyn College (2,5)",residential,low ridership,residential-low ridership
-276,52 St (7),residential,low ridership,residential-low ridership
-277,"5 Av/53 St (E,M)",destination,low ridership,destination-low ridership
-278,53 St (R),residential,low ridership,residential-low ridership
-279,"Chauncey St (J,Z)",residential,low ridership,residential-low ridership
-280,"Hoyt St (2,3)",destination,low ridership,destination-low ridership
-281,St Lawrence Av (6),residential,low ridership,residential-low ridership
-282,2 Av (F),destination,low ridership,destination-low ridership
-283,88 St (A),residential,low ridership,residential-low ridership
-284,Flushing-Main St (7),residential,high ridership,residential-high ridership
-285,Avenue U (N),residential,low ridership,residential-low ridership
-286,"Crown Hts-Utica Av (3,4)",residential,low ridership,residential-low ridership
-287,Bay Pkwy (D),residential,low ridership,residential-low ridership
-288,Pelham Bay Park (6),residential,low ridership,residential-low ridership
-289,176 St (4),residential,low ridership,residential-low ridership
-290,Jefferson St (L),residential,low ridership,residential-low ridership
-291,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",destination,high ridership,destination-high ridership
-292,167 St (4),residential,low ridership,residential-low ridership
-293,"Crescent St (J,Z)",residential,low ridership,residential-low ridership
-294,Kingsbridge Rd (4),residential,low ridership,residential-low ridership
-295,"Fordham Rd (B,D)",residential,low ridership,residential-low ridership
-296,Avenue J (Q),residential,low ridership,residential-low ridership
-297,Eastchester-Dyre Av (5),residential,low ridership,residential-low ridership
-298,28 St (6),destination,low ridership,destination-low ridership
-299,"167 St (B,D)",residential,low ridership,residential-low ridership
-300,Parkchester (6),residential,low ridership,residential-low ridership
-301,Classon Av (G),residential,low ridership,residential-low ridership
-302,Gun Hill Rd (5),residential,low ridership,residential-low ridership
-303,Beach 25 St (A),residential,low ridership,residential-low ridership
-304,Whitlock Av (6),residential,low ridership,residential-low ridership
-305,Ozone Park-Lefferts Blvd (A),residential,low ridership,residential-low ridership
-306,Canal St (1),destination,low ridership,destination-low ridership
-307,WTC Cortlandt (1),destination,low ridership,destination-low ridership
-308,"174 St (2,5)",residential,low ridership,residential-low ridership
-309,Ocean Pkwy (Q),residential,low ridership,residential-low ridership
-310,Bay Pkwy (N),residential,low ridership,residential-low ridership
-311,86 St (N),residential,low ridership,residential-low ridership
-312,"Clark St (2,3)",destination,low ridership,destination-low ridership
-313,"50 St (C,E)",destination,low ridership,destination-low ridership
-314,Beverley Rd (Q),residential,low ridership,residential-low ridership
-315,"Central Park North (110 St) (2,3)",residential,low ridership,residential-low ridership
-316,18 Av (N),residential,low ridership,residential-low ridership
-317,40 St-Lowery St (7),residential,low ridership,residential-low ridership
-318,Christopher St-Sheridan Sq (1),destination,low ridership,destination-low ridership
-319,"104 St (J,Z)",residential,low ridership,residential-low ridership
-320,"Hoyt-Schermerhorn Sts (A,C,G)",destination,low ridership,destination-low ridership
-321,34 St-Hudson Yards (7),destination,low ridership,destination-low ridership
-322,77 St (R),residential,low ridership,residential-low ridership
-323,Avenue P (F),residential,low ridership,residential-low ridership
-324,25 St (R),residential,low ridership,residential-low ridership
-325,"Brighton Beach (B,Q)",residential,low ridership,residential-low ridership
-326,"Astoria Blvd (N,W)",residential,low ridership,residential-low ridership
-327,"135 St (C,B)",residential,low ridership,residential-low ridership
-328,Kosciuszko St (J),residential,low ridership,residential-low ridership
-329,E 143 St-St Mary's St (6),destination,low ridership,destination-low ridership
-330,"30 Av (N,W)",residential,low ridership,residential-low ridership
-331,Myrtle-Willoughby Avs (G),residential,low ridership,residential-low ridership
-332,"Grand Central-42 St (S,4,5,6,7)",destination,high ridership,destination-high ridership
-333,"Bronx Park East (2,5)",residential,low ridership,residential-low ridership
-334,Van Siclen Av (C),residential,low ridership,residential-low ridership
-335,Nostrand Av (3),residential,low ridership,residential-low ridership
-336,80 St (A),residential,low ridership,residential-low ridership
-337,"Prospect Av (2,5)",residential,low ridership,residential-low ridership
-338,"219 St (2,5)",residential,low ridership,residential-low ridership
-339,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)",destination,high ridership,destination-high ridership
-340,"75 St-Elderts Ln (J,Z)",residential,low ridership,residential-low ridership
-341,18 Av (F),residential,low ridership,residential-low ridership
-342,Jamaica-Van Wyck (E),residential,low ridership,residential-low ridership
-343,"5 Av/59 St (N,R,W)",destination,low ridership,destination-low ridership
-344,"Bergen St (F,G)",destination,low ridership,destination-low ridership
-345,111 St (J),residential,low ridership,residential-low ridership
-346,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",destination,high ridership,destination-high ridership
-347,"Kingsbridge Rd (B,D)",residential,low ridership,residential-low ridership
-348,"Sheepshead Bay (B,Q)",residential,low ridership,residential-low ridership
-349,"116 St (2,3)",residential,low ridership,residential-low ridership
-350,"Northern Blvd (M,R)",residential,low ridership,residential-low ridership
-351,3 Av (L),destination,low ridership,destination-low ridership
-352,69 St (7),residential,low ridership,residential-low ridership
-353,"96 St (1,2,3)",destination,low ridership,destination-low ridership
-354,Neck Rd (Q),residential,low ridership,residential-low ridership
-355,Rockaway Blvd (A),residential,low ridership,residential-low ridership
-356,50 St (D),destination,low ridership,destination-low ridership
-357,"Briarwood (E,F)",residential,low ridership,residential-low ridership
-358,"14 St (F,M,1,2,3)/6 Av (L)",destination,high ridership,destination-high ridership
-359,"86 St (4,5,6)",destination,high ridership,destination-high ridership
-360,238 St (1),residential,low ridership,residential-low ridership
-361,71 St (D),residential,low ridership,residential-low ridership
-362,"72 St (C,B)",destination,low ridership,destination-low ridership
-363,"36 Av (N,W)",residential,low ridership,residential-low ridership
-364,103 St-Corona Plaza (7),residential,low ridership,residential-low ridership
-365,Cypress Av (6),residential,low ridership,residential-low ridership
-366,"Grand Av-Newtown (M,R)",residential,low ridership,residential-low ridership
-367,"125 St (A,C,B,D)",destination,low ridership,destination-low ridership
-368,Rector St (1),destination,low ridership,destination-low ridership
-369,231 St (1),residential,low ridership,residential-low ridership
-370,110 St (6),residential,low ridership,residential-low ridership
-371,"Church Av (F,G)",residential,low ridership,residential-low ridership
-372,Halsey St (L),residential,low ridership,residential-low ridership
-373,Nassau Av (G),destination,low ridership,destination-low ridership
-374,Beach 60 St (A),residential,low ridership,residential-low ridership
-375,207 St (1),residential,low ridership,residential-low ridership
-376,"Simpson St (2,5)",residential,low ridership,residential-low ridership
-377,"Jamaica Center-Parsons/Archer (E,J,Z)",residential,low ridership,residential-low ridership
-378,"Queens Plaza (E,M,R)",destination,low ridership,destination-low ridership
-379,163 St-Amsterdam Av (C),residential,low ridership,residential-low ridership
-380,Sutter Av-Rutland Rd (3),residential,low ridership,residential-low ridership
-381,"39 Av-Dutch Kills (N,W)",residential,low ridership,residential-low ridership
-382,169 St (F),residential,low ridership,residential-low ridership
-383,Roosevelt Island (F),residential,low ridership,residential-low ridership
-384,33 St-Rawson St (7),destination,low ridership,destination-low ridership
-385,"W 8 St-NY Aquarium (F,Q)",destination,low ridership,destination-low ridership
-386,"Forest Hills-71 Av (E,F,M,R)",residential,low ridership,residential-low ridership
-387,Ditmas Av (F),residential,low ridership,residential-low ridership
-388,Kingston Av (3),residential,low ridership,residential-low ridership
-389,"Flushing Av (M,J)",destination,low ridership,destination-low ridership
-390,Saratoga Av (3),residential,low ridership,residential-low ridership
-391,"Rector St (R,W)",destination,low ridership,destination-low ridership
-392,111 St (A),residential,low ridership,residential-low ridership
-393,Ralph Av (C),residential,low ridership,residential-low ridership
-394,"Kings Hwy (B,Q)",residential,low ridership,residential-low ridership
-395,57 St (F),destination,low ridership,destination-low ridership
-396,"Newkirk Av-Little Haiti (2,5)",residential,low ridership,residential-low ridership
-397,Lorimer St (L)/Metropolitan Av (G),residential,low ridership,residential-low ridership
-398,"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)",destination,high ridership,destination-high ridership
-399,8 Av (N),destination,low ridership,destination-low ridership
-400,79 St (1),destination,low ridership,destination-low ridership
-401,20 Av (N),residential,low ridership,residential-low ridership
-402,86 St (1),destination,low ridership,destination-low ridership
-403,Cleveland St (J),residential,low ridership,residential-low ridership
-404,137 St-City College (1),residential,low ridership,residential-low ridership
-405,"Church Av (2,5)",residential,low ridership,residential-low ridership
-406,"96 St (C,B)",destination,low ridership,destination-low ridership
-407,Fordham Rd (4),residential,low ridership,residential-low ridership
-408,Broadway (G),destination,low ridership,destination-low ridership
-409,"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)",destination,low ridership,destination-low ridership
-410,"Chambers St (1,2,3)",destination,low ridership,destination-low ridership
-411,Zerega Av (6),residential,low ridership,residential-low ridership
-412,170 St (4),residential,low ridership,residential-low ridership
-413,Mt Eden Av (4),residential,low ridership,residential-low ridership
-414,Forest Av (M),residential,low ridership,residential-low ridership
-415,28 St (1),destination,low ridership,destination-low ridership
-416,Beach 44 St (A),residential,low ridership,residential-low ridership
-417,45 St (R),residential,low ridership,residential-low ridership
-418,East Broadway (F),destination,low ridership,destination-low ridership
-419,Montrose Av (L),residential,low ridership,residential-low ridership
-420,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",destination,high ridership,destination-high ridership
-421,Westchester Sq-E Tremont Av (6),residential,low ridership,residential-low ridership
-422,"Marcy Av (M,J,Z)",destination,low ridership,destination-low ridership
-423,111 St (7),residential,low ridership,residential-low ridership
+249,E 143 St-St Mary's St (6),destination,low ridership,destination-low ridership
+250,E 149 St (6),residential,low ridership,residential-low ridership
+251,"E 180 St (2,5)",residential,low ridership,residential-low ridership
+252,East 105 St (L),residential,low ridership,residential-low ridership
+253,East Broadway (F),destination,low ridership,destination-low ridership
+254,Eastchester-Dyre Av (5),residential,low ridership,residential-low ridership
+255,"Eastern Pkwy-Brooklyn Museum (2,3)",destination,low ridership,destination-low ridership
+256,Elder Av (6),residential,low ridership,residential-low ridership
+257,"Elmhurst Av (M,R)",residential,low ridership,residential-low ridership
+258,"Euclid Av (A,C)",residential,low ridership,residential-low ridership
+259,Far Rockaway-Mott Av (A),residential,low ridership,residential-low ridership
+260,"Flatbush Av-Brooklyn College (2,5)",residential,low ridership,residential-low ridership
+261,Flushing Av (G),destination,low ridership,destination-low ridership
+262,"Flushing Av (M,J)",destination,low ridership,destination-low ridership
+263,Flushing-Main St (7),residential,high ridership,residential-high ridership
+264,Fordham Rd (4),residential,low ridership,residential-low ridership
+265,"Fordham Rd (B,D)",residential,low ridership,residential-low ridership
+266,Forest Av (M),residential,low ridership,residential-low ridership
+267,"Forest Hills-71 Av (E,F,M,R)",residential,low ridership,residential-low ridership
+268,Fort Hamilton Pkwy (D),residential,low ridership,residential-low ridership
+269,"Fort Hamilton Pkwy (F,G)",residential,low ridership,residential-low ridership
+270,Fort Hamilton Pkwy (N),residential,low ridership,residential-low ridership
+271,"Franklin Av (2,3,4,5)/Botanic Garden (S)",residential,low ridership,residential-low ridership
+272,"Franklin Av (C,S)",residential,low ridership,residential-low ridership
+273,Franklin St (1),destination,low ridership,destination-low ridership
+274,"Freeman St (2,5)",residential,low ridership,residential-low ridership
+275,Fresh Pond Rd (M),residential,low ridership,residential-low ridership
+276,"Fulton St (A,C,J,Z,2,3,4,5)",destination,high ridership,destination-high ridership
+277,Fulton St (G),destination,low ridership,destination-low ridership
+278,"Gates Av (J,Z)",residential,low ridership,residential-low ridership
+279,Graham Av (L),residential,low ridership,residential-low ridership
+280,"Grand Army Plaza (2,3)",residential,low ridership,residential-low ridership
+281,"Grand Av-Newtown (M,R)",residential,low ridership,residential-low ridership
+282,"Grand Central-42 St (S,4,5,6,7)",destination,high ridership,destination-high ridership
+283,"Grand St (B,D)",destination,low ridership,destination-low ridership
+284,Grand St (L),residential,low ridership,residential-low ridership
+285,Grant Av (A),residential,low ridership,residential-low ridership
+286,Greenpoint Av (G),destination,low ridership,destination-low ridership
+287,"Gun Hill Rd (2,5)",residential,low ridership,residential-low ridership
+288,Gun Hill Rd (5),residential,low ridership,residential-low ridership
+289,Halsey St (J),residential,low ridership,residential-low ridership
+290,Halsey St (L),residential,low ridership,residential-low ridership
+291,Harlem-148 St (3),residential,low ridership,residential-low ridership
+292,"Hewes St (M,J)",residential,low ridership,residential-low ridership
+293,"High St (A,C)",destination,low ridership,destination-low ridership
+294,Houston St (1),destination,low ridership,destination-low ridership
+295,Howard Beach-JFK Airport (A),destination,low ridership,destination-low ridership
+296,"Hoyt St (2,3)",destination,low ridership,destination-low ridership
+297,"Hoyt-Schermerhorn Sts (A,C,G)",destination,low ridership,destination-low ridership
+298,Hunters Point Av (7),destination,low ridership,destination-low ridership
+299,Hunts Point Av (6),residential,low ridership,residential-low ridership
+300,"Intervale Av (2,5)",residential,low ridership,residential-low ridership
+301,Inwood-207 St (A),residential,low ridership,residential-low ridership
+302,"Jackson Av (2,5)",residential,low ridership,residential-low ridership
+303,"Jamaica Center-Parsons/Archer (E,J,Z)",residential,low ridership,residential-low ridership
+304,Jamaica-179 St (F),residential,low ridership,residential-low ridership
+305,Jamaica-Van Wyck (E),residential,low ridership,residential-low ridership
+306,"Jay St-MetroTech (A,C,F,R)",destination,low ridership,destination-low ridership
+307,Jefferson St (L),residential,low ridership,residential-low ridership
+308,Junction Blvd (7),residential,low ridership,residential-low ridership
+309,Junius St (3),residential,low ridership,residential-low ridership
+310,"Kew Gardens-Union Tpke (E,F)",residential,low ridership,residential-low ridership
+311,"Kings Hwy (B,Q)",residential,low ridership,residential-low ridership
+312,Kings Hwy (F),residential,low ridership,residential-low ridership
+313,Kings Hwy (N),residential,low ridership,residential-low ridership
+314,Kingsbridge Rd (4),residential,low ridership,residential-low ridership
+315,"Kingsbridge Rd (B,D)",residential,low ridership,residential-low ridership
+316,Kingston Av (3),residential,low ridership,residential-low ridership
+317,Kingston-Throop Avs (C),residential,low ridership,residential-low ridership
+318,Knickerbocker Av (M),residential,low ridership,residential-low ridership
+319,Kosciuszko St (J),residential,low ridership,residential-low ridership
+320,Lafayette Av (C),destination,low ridership,destination-low ridership
+321,"Lexington Av (N,R,W)/59 St (4,5,6)",destination,high ridership,destination-high ridership
+322,"Lexington Av-53 St (E,M)/51 St (6)",destination,high ridership,destination-high ridership
+323,"Lexington Av/63 St (F,Q)",destination,low ridership,destination-low ridership
+324,Liberty Av (C),residential,low ridership,residential-low ridership
+325,Livonia Av (L),residential,low ridership,residential-low ridership
+326,Longwood Av (6),residential,low ridership,residential-low ridership
+327,Lorimer St (L)/Metropolitan Av (G),residential,low ridership,residential-low ridership
+328,"Lorimer St (M,J)",residential,low ridership,residential-low ridership
+329,Marble Hill-225 St (1),residential,low ridership,residential-low ridership
+330,"Marcy Av (M,J,Z)",destination,low ridership,destination-low ridership
+331,Mets-Willets Point (7),destination,low ridership,destination-low ridership
+332,Middle Village-Metropolitan Av (M),residential,low ridership,residential-low ridership
+333,Middletown Rd (6),residential,low ridership,residential-low ridership
+334,Montrose Av (L),residential,low ridership,residential-low ridership
+335,Morgan Av (L),residential,low ridership,residential-low ridership
+336,Morris Park (5),residential,low ridership,residential-low ridership
+337,Morrison Av-Soundview (6),residential,low ridership,residential-low ridership
+338,Mosholu Pkwy (4),residential,low ridership,residential-low ridership
+339,Mt Eden Av (4),residential,low ridership,residential-low ridership
+340,"Myrtle Av (M,J,Z)",residential,low ridership,residential-low ridership
+341,Myrtle-Willoughby Avs (G),residential,low ridership,residential-low ridership
+342,"Myrtle-Wyckoff Avs (L,M)",residential,low ridership,residential-low ridership
+343,Nassau Av (G),destination,low ridership,destination-low ridership
+344,Neck Rd (Q),residential,low ridership,residential-low ridership
+345,Neptune Av (F),residential,low ridership,residential-low ridership
+346,"Nereid Av (2,5)",residential,low ridership,residential-low ridership
+347,"Nevins St (2,3,4,5)",destination,low ridership,destination-low ridership
+348,New Lots Av (3),residential,low ridership,residential-low ridership
+349,New Lots Av (L),residential,low ridership,residential-low ridership
+350,New Utrecht Av (N)/62 St (D),residential,low ridership,residential-low ridership
+351,"Newkirk Av-Little Haiti (2,5)",residential,low ridership,residential-low ridership
+352,"Newkirk Plaza (B,Q)",residential,low ridership,residential-low ridership
+353,"Northern Blvd (M,R)",residential,low ridership,residential-low ridership
+354,"Norwood Av (J,Z)",residential,low ridership,residential-low ridership
+355,Norwood-205 St (D),residential,low ridership,residential-low ridership
+356,Nostrand Av (3),residential,low ridership,residential-low ridership
+357,"Nostrand Av (A,C)",residential,low ridership,residential-low ridership
+358,Ocean Pkwy (Q),residential,low ridership,residential-low ridership
+359,Ozone Park-Lefferts Blvd (A),residential,low ridership,residential-low ridership
+360,Park Pl (S),residential,low ridership,residential-low ridership
+361,Parkchester (6),residential,low ridership,residential-low ridership
+362,Parkside Av (Q),residential,low ridership,residential-low ridership
+363,Parsons Blvd (F),residential,low ridership,residential-low ridership
+364,Pelham Bay Park (6),residential,low ridership,residential-low ridership
+365,"Pelham Pkwy (2,5)",residential,low ridership,residential-low ridership
+366,Pelham Pkwy (5),residential,low ridership,residential-low ridership
+367,Pennsylvania Av (3),residential,low ridership,residential-low ridership
+368,"President St-Medgar Evers College (2,5)",residential,low ridership,residential-low ridership
+369,"Prince St (R,W)",destination,low ridership,destination-low ridership
+370,"Prospect Av (2,5)",residential,low ridership,residential-low ridership
+371,Prospect Av (R),residential,low ridership,residential-low ridership
+372,"Prospect Park (B,Q,S)",residential,low ridership,residential-low ridership
+373,"Queens Plaza (E,M,R)",destination,low ridership,destination-low ridership
+374,"Queensboro Plaza (7,N,W)",residential,low ridership,residential-low ridership
+375,Ralph Av (C),residential,low ridership,residential-low ridership
+376,Rector St (1),destination,low ridership,destination-low ridership
+377,"Rector St (R,W)",destination,low ridership,destination-low ridership
+378,Rockaway Av (3),residential,low ridership,residential-low ridership
+379,Rockaway Av (C),residential,low ridership,residential-low ridership
+380,Rockaway Blvd (A),residential,low ridership,residential-low ridership
+381,"Rockaway Park-Beach 116 St (A,S)",destination,low ridership,destination-low ridership
+382,Roosevelt Island (F),residential,low ridership,residential-low ridership
+383,Saratoga Av (3),residential,low ridership,residential-low ridership
+384,Seneca Av (M),residential,low ridership,residential-low ridership
+385,"Sheepshead Bay (B,Q)",residential,low ridership,residential-low ridership
+386,Shepherd Av (C),residential,low ridership,residential-low ridership
+387,"Simpson St (2,5)",residential,low ridership,residential-low ridership
+388,"Smith-9 Sts (F,G)",destination,low ridership,destination-low ridership
+389,"South Ferry (1)/Whitehall St (R,W)",destination,low ridership,destination-low ridership
+390,Spring St (6),destination,low ridership,destination-low ridership
+391,"Spring St (C,E)",destination,low ridership,destination-low ridership
+392,St Lawrence Av (6),residential,low ridership,residential-low ridership
+393,"Steinway St (M,R)",residential,low ridership,residential-low ridership
+394,"Sterling St (2,5)",residential,low ridership,residential-low ridership
+395,Sutphin Blvd (F),residential,low ridership,residential-low ridership
+396,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",residential,low ridership,residential-low ridership
+397,Sutter Av (L),residential,low ridership,residential-low ridership
+398,Sutter Av-Rutland Rd (3),residential,low ridership,residential-low ridership
+399,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",destination,high ridership,destination-high ridership
+400,"Tremont Av (B,D)",residential,low ridership,residential-low ridership
+401,Union St (R),destination,low ridership,destination-low ridership
+402,"Utica Av (A,C)",residential,low ridership,residential-low ridership
+403,Van Cortlandt Park-242 St (1),residential,low ridership,residential-low ridership
+404,Van Siclen Av (3),residential,low ridership,residential-low ridership
+405,Van Siclen Av (C),residential,low ridership,residential-low ridership
+406,"Van Siclen Av (J,Z)",residential,low ridership,residential-low ridership
+407,Vernon Blvd-Jackson Av (7),residential,low ridership,residential-low ridership
+408,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",destination,high ridership,destination-high ridership
+409,"W 8 St-NY Aquarium (F,Q)",destination,low ridership,destination-low ridership
+410,WTC Cortlandt (1),destination,low ridership,destination-low ridership
+411,Wakefield-241 St (2),residential,low ridership,residential-low ridership
+412,"Wall St (2,3)",destination,low ridership,destination-low ridership
+413,"Wall St (4,5)",destination,low ridership,destination-low ridership
+414,"West Farms Sq-E Tremont Av (2,5)",residential,low ridership,residential-low ridership
+415,Westchester Sq-E Tremont Av (6),residential,low ridership,residential-low ridership
+416,Whitlock Av (6),residential,low ridership,residential-low ridership
+417,Wilson Av (L),residential,low ridership,residential-low ridership
+418,"Winthrop St (2,5)",residential,low ridership,residential-low ridership
+419,"Woodhaven Blvd (J,Z)",residential,low ridership,residential-low ridership
+420,"Woodhaven Blvd (M,R)",residential,low ridership,residential-low ridership
+421,Woodlawn (4),residential,low ridership,residential-low ridership
+422,York St (F),destination,low ridership,destination-low ridership
+423,Zerega Av (6),residential,low ridership,residential-low ridership
